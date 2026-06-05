@@ -1,0 +1,32 @@
+name = "Acinetobacter_baumannii_K"
+keyword = "ab_k"
+genbank = "Acinetobacter_baumannii_K.gbk"
+organism = "Acinetobacter baumannii"
+taxon = 470
+antigen = "Capsular polysaccharide"
+pathway = "Wzx/Wzy-dependent"
+prefix = "K"
+version = "0.0.0"
+id_threshold = 85.0
+doi = [ "10.1099/mgen.0.000878",]
+owner = "tomdstanton"
+repo = "A_baumannii_Surface_Antigen_Loci"
+branch = "main"
+
+[contact]
+"Johanna Kenyon" = "j.kenyon@griffith.edu.au"
+
+[phenotype_logic]
+"K3-v1" = { loci = ["KL3", "KL22"], inactive_genes = ["gtr6"] }
+"K1-Wzy/Atr25-GI1" = { loci = ["KL1"], extra_genes = ["wzy-GI1", "atr25-GI"] }
+"K1-Wzy-GI1" = { loci = ["KL1"], extra_genes = ["wzy-GI1"] }
+"K1-Atr25-GI" = { loci = ["KL1"], extra_genes = ["atr25-GI"] }
+"K5-Atr30-Ph" = { loci = ["KL5"], extra_genes = ["atr30-Ph"] }
+"K19-Wzy/Atr25-GI1" = { loci = ["KL19"], extra_genes = ["wzy-GI1", "atr25-GI"] }
+"K19-Wzy-GI1" = { loci = ["KL19"], extra_genes = ["wzy-GI1"] }
+"K24-Wzy-GI2" = { loci = ["KL24"], extra_genes = ["wzy-GI2"] }
+"K46-Atr29-Ph" = { loci = ["KL46"], extra_genes = ["atr29-Ph"] }
+"K58-8ePse" = { loci = ["KL58"], extra_genes = ["epaA", "epaB"] }
+"K58-Atr44-Ph" = { loci = ["KL58"], extra_genes = ["atr44-Ph"] }
+"K127-WzyPh1" = { loci = ["KL127"], extra_genes = ["wzyPh1"] }
+"K135-8ePse" = { loci = ["KL135"], extra_genes = ["epaA", "epaB"] }
