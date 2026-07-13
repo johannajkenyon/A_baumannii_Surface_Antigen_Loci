@@ -6,7 +6,7 @@
 [![Streamlit App](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](https://kaptive-database-validator.streamlit.app/)
 [![Release Database](https://github.com/tomdstanton/A_baumannii_Surface_Antigen_Loci/actions/workflows/release.yml/badge.svg)](https://github.com/tomdstanton/A_baumannii_Surface_Antigen_Loci/actions/workflows/release.yml)
 
-## *Acinetobacter baunannii* K and OC locus databases
+## *Acinetobacter baumannii* K and OC locus databases
 
 The *A. baumannii* K (capsule) locus reference database
 (`Acinetobacter_baumannii_K.gbk`)
