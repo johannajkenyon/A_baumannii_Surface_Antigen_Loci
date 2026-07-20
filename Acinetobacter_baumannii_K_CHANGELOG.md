@@ -1,8 +1,6 @@
-## [v3.2.4] - 2026-07-20
-* chore: Update Acinetobacter_baumannii_K.toml (df146e2)
-* chore: auto-bump and update changelogs [skip ci] (4a35f13)
+# Changelog: Acinetobacter_baumannii_K
 
-## [v3.2.3] - 2026-07-20
+## [v3.3.0] - 2026-07-20
 * major: Added 168 novel K loci and updated phenotype logic (57ac8f4)
 * chore: auto-bump and update changelogs [skip ci] (7ddafe6)
 
