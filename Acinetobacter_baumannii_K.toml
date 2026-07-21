@@ -10,7 +10,7 @@ version = "3.3.0"
 id_threshold = 85.0
 doi = [ "10.1099/mgen.0.000878",]
 owner = "johannajkenyon"
-repo = "Acinetobacter_baumannii_surface_polysaccharide_locus_databases"
+repo = "Abaumannii_surface_polysaccharide_loci"
 branch = "main"
 
 [contact]
